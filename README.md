@@ -10,8 +10,8 @@ docker run -d --name ss-with-net-speeder -p 8989:8989 -p 22:22 malaohu/ss-with-n
 ## Arukas.io 启动
 
 ```
-镜像 ：malaohu/ss-with-net-speeder
-启动命令(CMD) ：-s 0.0.0.0 -p 8989 -k RUYO.net -m rc4-md5
+镜像 ：liyubaku/ss-with-net-speeder
+启动命令(CMD) ：-s 0.0.0.0 -p 9898 -k akuras -m aes-256-gcm
 ```
 
 ## 支持SSH
